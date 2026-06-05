@@ -8,6 +8,8 @@ Avatarify Python requires manually downloading and installing some dependencies,
 
 Based on [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model).
 
+New to the repository? Read the [codebase overview for newcomers](docs/codebase-overview.md) for a guided tour of the architecture, runtime modes, and next learning steps.
+
 ## News
 - **7 Mar 2021.** Renamed project to Avatarify Python to distinguish it from other versions of Avatarify
 - **14 December 2020.** Released Avatarify Desktop. Check it out [here](https://github.com/alievk/avatarify-desktop).
