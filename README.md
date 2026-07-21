@@ -4,7 +4,11 @@
 
 Photorealistic avatars for video-conferencing.
 
-Avatarify Python requires manually downloading and installing some dependencies, and is therefore best suited for users who have some experience with command line applications. [Avatarify Desktop](https://github.com/alievk/avatarify-desktop), which aims to be easier to install and use, is recommended for most users. If you still want to use Avatarify Python, proceed to the [install instructions](docs/).
+Avatarify Python requires manually downloading and installing some dependencies, and is therefore best suited for users who have some experience with command line applications. [Avatarify Desktop](https://github.com/alievk/avatarify-desktop), which aims to be easier to install and use, is recommended for most users. If you still want to use Avatarify Python, proceed to the [install instructions](docs/). For a full setup on Linux or macOS, you can also run:
+
+```bash
+bash scripts/setup_all.sh
+```
 
 Based on [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model).
 
