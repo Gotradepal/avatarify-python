@@ -12,6 +12,8 @@ bash scripts/setup_all.sh
 
 Based on [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model).
 
+Additional writing notes and expanded concept briefs are available in [docs/admin-speaking-expanded.md](docs/admin-speaking-expanded.md).
+
 ## News
 - **7 Mar 2021.** Renamed project to Avatarify Python to distinguish it from other versions of Avatarify
 - **14 December 2020.** Released Avatarify Desktop. Check it out [here](https://github.com/alievk/avatarify-desktop).
